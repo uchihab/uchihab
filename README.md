@@ -39,8 +39,17 @@ I have experience in multi-unit operations, team leadership, KPI monitoring, pro
 
 ## 🎯 Projects in Development
 
+## ⭐ Featured Projects
+
 ### AI Operations Dashboard
-Dashboard focused on operational KPIs, productivity, costs and performance analysis.
+AI-powered operations analytics platform combining Business Operations, Data Analytics, KPI monitoring and AI-assisted decision support.
+
+**Key features:** Executive KPIs, business unit comparison, operational insights, management alerts and an AI Business Analyst.
+
+🔗 [Live Demo](https://cesar-ai-operations-dashboard.streamlit.app)  
+💻 [Source Code](https://github.com/uchihab/ai-operations-dashboard)
+
+**Tech:** Python · Streamlit · Plotly · OpenAI API
 
 ### CS2 Tactical Training Tool
 Web application designed to help competitive CS2 teams structure strategies, player roles and tactical training.
