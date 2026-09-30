@@ -37,11 +37,10 @@ I have experience in multi-unit operations, team leadership, KPI monitoring, pro
 - Automation
 - Data Engineering Fundamentals
 
-## 🎯 Projects in Development
-
 ## ⭐ Featured Projects
 
 ### AI Operations Dashboard
+
 AI-powered operations analytics platform combining Business Operations, Data Analytics, KPI monitoring and AI-assisted decision support.
 
 **Key features:** Executive KPIs, business unit comparison, operational insights, management alerts and an AI Business Analyst.
@@ -50,6 +49,9 @@ AI-powered operations analytics platform combining Business Operations, Data Ana
 💻 [Source Code](https://github.com/uchihab/ai-operations-dashboard)
 
 **Tech:** Python · Streamlit · Plotly · OpenAI API
+
+
+## 🎯 Projects in Development
 
 ### CS2 Tactical Training Tool
 Web application designed to help competitive CS2 teams structure strategies, player roles and tactical training.
