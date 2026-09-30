@@ -96,6 +96,31 @@ Capabilities:
 ### RAG Knowledge Assistant
 AI assistant designed to retrieve and answer questions from internal business documents.
 
+
+## 🛠 Technical Skills
+
+### AI & Automation
+- Generative AI
+- OpenAI API
+- RAG Systems
+- AI Agents
+- Workflow Automation
+
+### Data & Analytics
+- Python
+- Data Analysis
+- KPI Dashboards
+- Business Intelligence
+- Process Improvement
+
+### Development
+- Python
+- Streamlit
+- Git/GitHub
+- APIs
+- Software Development Fundamentals
+- 
+
 ## 🌎 Languages
 
 - Portuguese — Native
