@@ -41,60 +41,69 @@ I have experience in multi-unit operations, team leadership, KPI monitoring, pro
 
 ### AI Operations Dashboard
 
-Production-style analytics platform combining Business Operations, Data Analytics and AI-assisted decision support.
+AI-powered operations analytics platform combining Business Operations, Data Analytics, KPI monitoring and AI-assisted decision support.
 
-Built to simulate an executive operations environment with:
+The project simulates an executive operations environment where managers can monitor business performance, identify operational issues and interact with an AI Business Analyst.
 
+**Key Features:**
 - Executive KPI monitoring
-- Business unit performance analysis
-- Operational alerts
-- AI Business Analyst assistant
-- Data-driven management insights
+- Business unit performance comparison
+- Revenue, cost and profitability analysis
+- Productivity and customer satisfaction metrics
+- Automated management attention points
+- AI Business Analyst
+- AI-assisted operational decision support
 
-Live Demo:
-https://cesar-ai-operations-dashboard.streamlit.app/
-
-Tech Stack:
+**Tech Stack:**
 Python · Streamlit · Plotly · OpenAI API · Data Analytics
 
+**Live Demo:**  
+https://cesar-ai-operations-dashboard.streamlit.app/
 
-## 🎯 Projects in Development
+---
 
-### CS2 Tactical Training Platform
+### CS2 Tactical Training Tool
 
-Web application designed for competitive Counter-Strike teams to organize tactical training, strategies and player responsibilities.
+Web application designed to help competitive CS2 teams structure strategies, player responsibilities and tactical training workflows.
 
-Features:
+**Focus Areas:**
+- Tactical strategy organization
+- Player role management
+- Team training workflows
+- Competitive preparation
 
-- Tactical planning
-- Team role management
-- Training workflows
-- Strategy organization
-
-Tech Stack:
+**Tech Stack:**
 Web Development · Database Design · Product Development
 
+---
+
+### Marketing Performance Analyzer
+
+Analytics platform focused on digital advertising and marketing performance.
+
+**Key Metrics:**
+- ROAS
+- CPA
+- CTR
+- CPC
+- Conversion rate
+- Campaign performance
+
+**Focus:**  
+Turning advertising data into actionable operational insights.
+
+---
+
 ### RAG Knowledge Assistant
 
 AI assistant designed to retrieve and answer questions from internal business documents.
 
-Concepts:
-
+**Concepts:**
 - Retrieval Augmented Generation (RAG)
-- Document search
+- Document retrieval
 - AI knowledge systems
+- Business information access
 - Enterprise automation
-
-Capabilities:
-
-- ROAS analysis
-- CPA tracking
-- CTR monitoring
-- Conversion analysis
-- Campaign performance insights
-
-### RAG Knowledge Assistant
-AI assistant designed to retrieve and answer questions from internal business documents.
 
 
 ## 🛠 Technical Skills
@@ -116,10 +125,42 @@ AI assistant designed to retrieve and answer questions from internal business do
 ### Development
 - Python
 - Streamlit
-- Git/GitHub
+- Plotly
+- Git & GitHub
 - APIs
 - Software Development Fundamentals
-- 
+
+## 📊 AI Operations Dashboard — Case Study
+
+### Business Problem
+
+Operations teams often need to monitor financial performance, productivity and customer experience across multiple business units.
+
+The goal of this project was to create a centralized analytics environment capable of transforming operational data into management insights.
+
+### Solution
+
+I developed an interactive dashboard that combines operational KPIs, business-unit comparison, automated attention points and an AI Business Analyst.
+
+The AI layer allows managers to ask operational questions using natural language and receive analysis based on the currently selected business data.
+
+### Example Analysis
+
+The system can identify:
+
+- Business units with cost-efficiency issues
+- Low productivity indicators
+- Customer satisfaction gaps
+- Profitability differences
+- Areas requiring management attention
+
+### Outcome
+
+The project demonstrates how AI can be integrated into traditional Business Intelligence workflows to support faster operational analysis and decision-making.
+
+**Technologies:** Python · Streamlit · Plotly · OpenAI API
+
+
 
 ## 🌎 Languages
 
