@@ -62,6 +62,8 @@ Python · Streamlit · Plotly · OpenAI API · Data Analytics
 **Live Demo:**  
 https://cesar-ai-operations-dashboard.streamlit.app/
 
+ 💻 [Source Code](https://github.com/uchihab/ai-operations-dashboard)
+
 ---
 
 ### CS2 Tactical Training Tool
