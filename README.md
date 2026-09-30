@@ -37,7 +37,7 @@ I have experience in multi-unit operations, team leadership, KPI monitoring, pro
 - Automation
 - Data Engineering Fundamentals
 
-## 🎯 Current Projects
+## 🎯 Projects in Development
 
 ### AI Operations Dashboard
 Dashboard focused on operational KPIs, productivity, costs and performance analysis.
