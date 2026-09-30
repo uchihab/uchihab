@@ -41,6 +41,8 @@ I have experience in multi-unit operations, team leadership, KPI monitoring, pro
 
 ### AI Operations Dashboard
 
+![AI Operations Dashboard](./ai-operations-dashboard.png)
+
 AI-powered operations analytics platform combining Business Operations, Data Analytics, KPI monitoring and AI-assisted decision support.
 
 The project simulates an executive operations environment where managers can monitor business performance, identify operational issues and interact with an AI Business Analyst.
